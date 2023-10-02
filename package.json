@@ -1,0 +1,23 @@
+{
+  "name": "create-react-from-scratch",
+  "version": "0.0.1",
+  "description": "how to create react without CRA",
+  "main": "src/index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BZBaXraM/CreateReactFromScratch.git"
+  },
+  "keywords": [
+    "learn",
+    "react"
+  ],
+  "author": "Bahram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BZBaXraM/CreateReactFromScratch/issues"
+  },
+  "homepage": "https://github.com/BZBaXraM/CreateReactFromScratch#readme"
+}
